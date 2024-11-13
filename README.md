@@ -1,6 +1,6 @@
 # absensi_1
 
-A new Flutter project.
+Project aplikasi absensi untuk karyawan dalam perusahaan 
 
 ## Getting Started
 
